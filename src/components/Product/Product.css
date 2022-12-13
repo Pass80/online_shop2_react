@@ -1,0 +1,19 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.product img {
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+
+.product p {
+    color: #323a45;
+    margin-bottom: 0;
+}
+
+.product p:nth-of-type(2) {
+    color: #848484;
+}
